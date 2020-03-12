@@ -51,3 +51,10 @@ body {
   color: white;
 }
 
+
+#jumboReducedPadding {
+	Padding-top: 32px;
+	Padding-bottom: 16px;
+	background-color: #343a40;
+	width: 100%;
+}
